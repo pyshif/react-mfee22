@@ -1,0 +1,16 @@
+.container {
+    height: 100%;
+    position: relative;
+    padding-top: 5%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+body > #root > div {
+    height: 100vh;
+}
